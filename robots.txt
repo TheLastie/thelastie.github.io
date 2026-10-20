@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /Gruzovoz/
+
+Sitemap: https://thelastie.github.io/Gruzovoz/sitemap.xml
